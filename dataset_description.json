@@ -1,8 +1,7 @@
 {
-	"Name": "Associative prediction of visual shape in the hippocampus",
-	"BIDSVersion": "1.1.1",
-	"Authors": [
-		"Kok, P. & Turk-Browne, N.B."
-	],
-	"Funding": "National Institutes of Health (R01 MH069456)"
+    "Name": "Lingering representations of stimuli influence recall organization",
+    "BIDSVersion": "1.1.1",
+    "Authors": [
+        "Chan, S.C.Y., Applegate, M.C., Morton, N.W., Polyn, S.M., & Norman, K.A."
+    ]
 }
