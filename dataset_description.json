@@ -1,7 +1,9 @@
 {
     "Name": "Lingering representations of stimuli influence recall organization",
     "BIDSVersion": "1.1.1",
-    "Authors": [],
+    "Authors": [
+        "Chan, S. C., Applegate, M. C., Morton, N. W., Polyn, S. M., & Norman, K. A."
+    ],
     "ReferencesAndLinks": [
         "http://compmemweb.princeton.edu/wp/wp-content/uploads/2017/02/lingering-representations-of-stimuli-influence-recall-organization.pdf"
     ]
